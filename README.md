@@ -53,4 +53,4 @@ price_peak_fix: Fixed price of power during the peak period
 
 price_mid_peak_fix: Fixed price of power during the mid-peak period
 
-Setup and Installation
+
